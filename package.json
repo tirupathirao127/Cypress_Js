@@ -1,0 +1,22 @@
+{
+  "name": "cypress_js",
+  "version": "1.0.0",
+  "description": "cypress javascript Test automation suite",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tirupathirao127/Cypress_Js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tirupathirao127/Cypress_Js/issues"
+  },
+  "homepage": "https://github.com/tirupathirao127/Cypress_Js#readme",
+  "dependencies": {
+    "cypress": "^14.5.2"
+  }
+}
